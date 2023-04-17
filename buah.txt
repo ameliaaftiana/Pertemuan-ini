@@ -1,0 +1,7 @@
+apel
+nanas
+stoberi
+anjing
+beruangdurian
+beruang
+& c:/users/pc/appdata/local/microsoft/windowsapps/python3.10.exe d:/71220867/filelima.py
